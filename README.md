@@ -82,4 +82,4 @@ The CAM visualization shows:
 
 ## Conclusion
 
-This project provides an implementation of emotion-driven image classification with CAM visualization. You can easily adapt the code to your dataset and tune the model for different applications in product design and emotion recognition.
+This project provides an implementation of emotion-driven image classification with CAM visualization. You can easily adapt the code to your dataset and tune the model for different applications in product design and emotion recognition.The source code for the ResNet-Emotion network is publicly available on Figshare https://doi.org/10.6084/m9.figshare.26789779.
